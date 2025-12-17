@@ -1,4 +1,4 @@
-# API Testing (placeholder)
+# API Testing 
 
 This folder will contain examples of my API testing work:
 
